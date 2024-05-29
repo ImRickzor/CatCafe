@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "admin@catcafe.pe",
+      "password": "isil123"
+    },
+    {
+      "username": "mromanm@catcafe.pe",
+      "password": "isil123"
+    },
+    {
+      "username": "jcastañedaa@catcafe.pe",
+      "password": "isil123"
+    },
+    {
+      "username": "admin@pruebas.pe",
+      "password": "isil123"
+    }
+  ]
+}

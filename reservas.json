@@ -1,0 +1,17 @@
+{
+  "reservas": [
+    {
+      "nombres": "Miguel Roman",
+      "correo": "47246152@mail.isil.pe",
+      "telefono": "960000777",
+      "fechahora": "05/30/2024,21:00:00",
+      "mensaje": "Deseo reservar mesa para 2 personas"
+    },
+    {
+      "nombres": "Kevin Rodrigo Zuñiga",
+      "correo": "kevinzuñigag@gmail.com",
+      "telefono": "987458",
+      "fechahora": "2024-05-30T09:00"
+    }
+  ]
+}
